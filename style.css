@@ -1,11 +1,34 @@
 body{
-    background-color:grey;
+    background-color:blanchedalmond;
     font-family: "Pixelify Sans", sans-serif;
+    text-align: center;
 }
 footer{
     position:fixed;
     bottom:0;
     left:47%;
 
-
 }
+
+
+.white{
+    color:burlywood;
+
+    
+}
+ .white:hover{
+        transform: scale(1.5);
+    }
+
+.color{
+    color:peru
+}
+.first{
+    color:brown
+}
+
+.color:hover{
+    transform: scale(1.3);
+}
+
+li{list-style-type: none;}
